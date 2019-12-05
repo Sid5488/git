@@ -1,2 +1,2 @@
 Entendendo o HEAD
-sdklasjk
+Está linha foi modificado no ramo MASTER
